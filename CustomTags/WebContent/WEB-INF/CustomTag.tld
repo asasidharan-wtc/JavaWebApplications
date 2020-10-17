@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib>
+<tlibversion>2.0</tlibversion>
+<jspversion>2.0</jspversion>
+<short-name>userinformation</short-name>
+<info>This library displays the user information</info>
+<uri>http://aditya.com</uri>
+
+<tag>
+<name>display-user</name>
+<tagclass>com.servlets.custom.UserResultHandler</tagclass>
+<info>Updates user information</info>
+</tag>
+
+</taglib>
